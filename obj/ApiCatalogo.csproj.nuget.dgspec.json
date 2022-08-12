@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Estudo\\C#\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj": {}
+    "C:\\Users\\Estudo\\C#\\ApiCatalogo\\apicatalogo\\ApiCatalogo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Estudo\\C#\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj": {
+    "C:\\Users\\Estudo\\C#\\ApiCatalogo\\apicatalogo\\ApiCatalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Estudo\\C#\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj",
+        "projectUniqueName": "C:\\Users\\Estudo\\C#\\ApiCatalogo\\apicatalogo\\ApiCatalogo.csproj",
         "projectName": "ApiCatalogo",
-        "projectPath": "C:\\Users\\Estudo\\C#\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj",
+        "projectPath": "C:\\Users\\Estudo\\C#\\ApiCatalogo\\apicatalogo\\ApiCatalogo.csproj",
         "packagesPath": "C:\\Users\\Estudo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Estudo\\C#\\ApiCatalogo\\ApiCatalogo\\obj\\",
+        "outputPath": "C:\\Users\\Estudo\\C#\\ApiCatalogo\\apicatalogo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
