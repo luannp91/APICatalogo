@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KSxZ6BwkM17UXDx7zQbJxUj0SQDQxudrTj5PLnmOuw7WJ+vr+Y7mK8p1g4fq3VaZ9q7Fj1+gi94AdkxpJTMZEw==",
+  "dgSpecHash": "IJ0wXsEr+NUuX7nEY34iL/CqUme2YzizUWGmVveeDp9Q1qkeDY3LMpjEGJo8L18u6nJ+A+hor2lzqEfTkywTMw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Estudo\\C#\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj",
   "expectedPackageFiles": [
@@ -11,7 +11,7 @@
     "C:\\Users\\Estudo\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
     "C:\\Users\\Estudo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.8\\microsoft.entityframeworkcore.abstractions.6.0.8.nupkg.sha512",
     "C:\\Users\\Estudo\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.8\\microsoft.entityframeworkcore.analyzers.6.0.8.nupkg.sha512",
-    "C:\\Users\\Estudo\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.7\\microsoft.entityframeworkcore.design.6.0.7.nupkg.sha512",
+    "C:\\Users\\Estudo\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.8\\microsoft.entityframeworkcore.design.6.0.8.nupkg.sha512",
     "C:\\Users\\Estudo\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.8\\microsoft.entityframeworkcore.relational.6.0.8.nupkg.sha512",
     "C:\\Users\\Estudo\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.8\\microsoft.entityframeworkcore.sqlserver.6.0.8.nupkg.sha512",
     "C:\\Users\\Estudo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
